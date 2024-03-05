@@ -1,5 +1,5 @@
 # test-programming-git
-This is test repository.
+In this repository we display how to use GitHub as version controller.
 
 ## Next Title
-Please check.
+Please make fork on this repository.
